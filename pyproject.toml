@@ -1,0 +1,10 @@
+[project]
+name = "manga-pipeline"
+version = "0.1.0"
+description = "A pipeline for automatically downloading and processing manga to epubs"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.pyright]
+typeCheckingMode = "basic"
